@@ -1,0 +1,49 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+}
+
+#sunday{
+  color: red;
+}
+
+.top-hadding{
+  font-size: 60px;
+}
+
+.pragrap{
+  font-weight: 100;
+  margin-bottom: 50px;
+}
+
+.botton{
+  text-decoration: none;
+  color: white;
+  background-image: linear-gradient(orange, tomato);
+  padding: 15px 30px;
+  border-radius: 10px;
+}
+
+.top-section{
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 200px;
+}
+
+.haf-div{
+  width: 50%;
+  padding-left: 200px;
+  padding-top: 150px;
+}
+
+#top-id-section{
+  background-image: url(img/top-banner.png);
+  background-repeat: no-repeat;
+}
+
+
+.img-div{
+  box-shadow: 10px 10px 40px gray;
+  border-left: 5px solid red;
+  border-radius: 10px;
+}
